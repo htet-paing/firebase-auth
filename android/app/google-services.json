@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813232841445",
+    "firebase_url": "https://hpfire-auth.firebaseio.com",
+    "project_id": "hpfire-auth",
+    "storage_bucket": "hpfire-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813232841445:android:7ca7499c39bba60bb92a0c",
+        "android_client_info": {
+          "package_name": "com.htetpaing.hpfire_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813232841445-o6f7d8alobetmkr12j9khh3bn57f3g8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.htetpaing.hpfire_auth",
+            "certificate_hash": "8feaca9e9f38378435d08d302ea8547547b11a2e"
+          }
+        },
+        {
+          "client_id": "813232841445-iksc5mq12ck3hfidfrsh0q0f7dkackdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYB1uYsZB1pytn6ipqJ-nfdczP57Ad1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813232841445-iksc5mq12ck3hfidfrsh0q0f7dkackdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
